@@ -5,8 +5,7 @@
 📍 São Paulo, SP | 📫 mariaeduardamatias2808@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-souza-919841276/) | 🔗 [GitHub](https://github.com/Mariaeduardamatias) | 🔗 [Mapa de Carreira](https://mapa-carreira-swart.vercel.app/)
 
-![GitHub followers](https://img.shields.io/github/followers/Mariaeduardamatiastem?label=Seguidores&style=social)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/seu-usuario)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://maria-eduarda-souza-919841276/)
 ![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:mariaeduardamatias2808@gmail.com)
 
 
